@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-proof-section-eTc-8Gy1CL
 - Live Site URL: https://dainty-souffle-00674c.netlify.app/
 
 ## My process
