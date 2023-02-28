@@ -22,10 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot 2023-02-28 183811](https://user-images.githubusercontent.com/69382363/221863459-989d4645-d2c7-40a4-bc10-60ceda5a89d0.png)
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://dainty-souffle-00674c.netlify.app/]
+- Live Site URL: https://dainty-souffle-00674c.netlify.app/
 
 ## My process
 
@@ -40,5 +42,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@aniket167779](https://www.frontendmentor.io/profile/aniket167779)
